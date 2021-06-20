@@ -19,7 +19,7 @@ menu:
     - name: GitHub
       url: https://github.com/OliverLJacobs/
     - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://twitter.com/OliverLEJacobs
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
